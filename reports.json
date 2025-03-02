@@ -1,0 +1,46 @@
+[
+  {},
+  {},
+  {
+    "id": 3,
+    "reporterId": "679034021237489674",
+    "reportedId": "N/A",
+    "reason": "a",
+    "timestamp": "2025-02-03T01:16:30.335Z"
+  },
+  {
+    "id": 4,
+    "reporterId": "679034021237489674",
+    "reportedId": "N/A",
+    "reason": "a",
+    "timestamp": "2025-02-03T01:16:45.120Z"
+  },
+  {
+    "id": 5,
+    "reporterId": "679034021237489674",
+    "reportedId": "N/A",
+    "reason": "pzsz",
+    "timestamp": "2025-02-13T18:15:04.945Z"
+  },
+  {
+    "id": 6,
+    "reporterId": "679034021237489674",
+    "reportedId": "N/A",
+    "reason": "a",
+    "timestamp": "2025-02-13T18:17:33.738Z"
+  },
+  {
+    "id": 7,
+    "reporterId": "679034021237489674",
+    "reportedId": "N/A",
+    "reason": "ola",
+    "timestamp": "2025-02-13T18:18:35.611Z"
+  },
+  {
+    "id": 8,
+    "reporterId": "679034021237489674",
+    "reportedId": "N/A",
+    "reason": "Denúncia",
+    "timestamp": "2025-02-13T18:19:49.448Z"
+  }
+]
