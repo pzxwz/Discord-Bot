@@ -1,2 +1,2 @@
 # Discord-Bot
-Um simples bot de discord, ainda restam melhorias para fazer! ✨️
+Este é um simples bot de discord, ainda me restam melhorias para fazer! ✨️
